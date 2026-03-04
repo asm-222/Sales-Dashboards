@@ -73,9 +73,11 @@ https://docs.google.com/spreadsheets/d/1_YDa6Lbh9d_-C3LKvSDyqld_sKqWTHEi/edit?gi
 ![Dashboard](https://github.com/asm-222/Sales-Dashboards/blob/main/pic/Dashboard1.PNG)
 
 ### 🎥 Dashboard Demo
-<h2>Dashboard Demo</h2>
+<h2 align="center">Dashboard Demo</h2>
 
-<img src="https://raw.githubusercontent.com/asm-222/Sales-Dashboards/main/pic/Dash.gif" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asm-222/Sales-Dashboards/main/pic/Dash.gif" width="90%">
+</p>
 
 ---
 
